@@ -16,3 +16,5 @@ Optional environment variable for live Ticketmaster events:
 `TICKETMASTER_API_KEY`
 
 Without the key, the app falls back to demo data while venue-direct collectors attempt public structured event data.
+
+
